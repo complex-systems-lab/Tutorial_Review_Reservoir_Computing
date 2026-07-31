@@ -61,6 +61,3 @@ The notebooks require Python along with the following packages:
 ---
 
 
-   ```bash
-   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-   cd your-repo-name
