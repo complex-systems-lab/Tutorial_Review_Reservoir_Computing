@@ -1,0 +1,10 @@
+cff-version: 1.0.0
+message: "If you use this software or supplementary code in your work, please cite it using the metadata from this file."
+type: software
+title: "Supplementary Code for Reservoir as a Dynamical System: A Tutorial Review"
+
+doi: "10.5281/zenodo.21778344"
+repository-code: "https://github.com/complex-systems-lab/Tutorial_Review_Reservoir_Computing"
+url: "https://doi.org/10.5281/zenodo.21778344"
+date-released: "2026-08-03"
+version: "1.0.0"
