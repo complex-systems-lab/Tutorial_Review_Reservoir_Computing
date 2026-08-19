@@ -1,7 +1,9 @@
 # Reservoir as a Dynamical System: A Tutorial Review
 
 This repository contains the Python code and Jupyter notebooks supplementing the review article:
+
 Contact person: Sarika Jalan (sarikajalan9@gmail.com)
+
 Note: If you are using any of the above codes, please cite doi: inserted later
 
 **Reservoir as a Dynamical System: A Tutorial Review**  
